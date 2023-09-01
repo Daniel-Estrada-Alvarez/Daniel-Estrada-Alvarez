@@ -1,4 +1,4 @@
-![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJtY3B1M3h4bmJ0Nm9lczRtZ2xsamVvOGtuZWYzeGNuYTBxaWMxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.gif)
+![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Daniel Estrada</h1>
 <h3 align="center">I'm a dedicated software developer hailing from Arizona, with roots tracing back to a quaint Mexican border town. My early fascination with Math and Science paved the way for a pivotal moment during my junior year of college when I stumbled upon programming. It was love at first code, and from that moment, I set my sights on a career in software development, all while pursuing a degree in Electrical Engineering.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
@@ -21,7 +21,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dani3l.estrada"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dani3l.estrada" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-estrada-alvarez&show_icons=true&locale=en&layout=compact" alt="daniel-estrada-alvarez" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-estrada-alvarez&" alt="daniel-estrada-alvarez" /></p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-estrada-alvarez&show_icons=true&locale=en&layout=compact" alt="daniel-estrada-alvarez" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-estrada-alvarez&" alt="daniel-estrada-alvarez" /></p>
