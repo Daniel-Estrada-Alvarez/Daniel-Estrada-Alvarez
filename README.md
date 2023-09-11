@@ -22,5 +22,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dani3l.estrada"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dani3l.estrada" /></a></p><br><br>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-estrada-alvarez&show_icons=true&locale=en&layout=compact" alt="daniel-estrada-alvarez" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-estrada-alvarez&" alt="daniel-estrada-alvarez" /></p>
