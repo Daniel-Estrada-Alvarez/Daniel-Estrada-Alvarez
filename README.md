@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **dani3l.estrada@gmail.com**
 
-- ⚡ Fun fact I have an Instagram account for my dogs. You can view it at https://www.instagram.com/frostnbros/ 
+- ⚡ Fun fact: I have an Instagram account for my dogs. You can view it at - https://www.instagram.com/frostnbros/ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
